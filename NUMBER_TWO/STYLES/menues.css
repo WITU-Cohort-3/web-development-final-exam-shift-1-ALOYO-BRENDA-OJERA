@@ -1,0 +1,44 @@
+body{
+    background-color: orangered;
+
+}
+.head{
+ text-align: center;
+ font-size: 40px;
+}
+.pics{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    height: 450px;
+}
+.images2{
+    display: flex;
+    flex-direction: row;
+}
+p{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.links{
+    display: flex;
+    color: black;
+    font-size: 30px;
+    flex-direction: row;
+    gap: 100px;
+    justify-content: center;
+    background-color: rgb(242, 238, 237);}
+    button{
+        background-color: rgb(12, 13, 13);
+        font-size: 30px;
+        color: white;
+    }
+    menue_head{
+        display:flex;
+        justify-content: center;
+        background-color: antiquewhite;
+        text-align: end;
+        align-items: center;
+
+    }

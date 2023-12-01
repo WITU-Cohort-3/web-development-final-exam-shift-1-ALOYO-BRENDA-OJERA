@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(47, 46, 44);
+}
+.image{
+    display: flex;
+    flex-direction:row;
+    margin-left:5%;
+    height: 800px;
+}
+h1{
+    text-align: center;
+}
+.words{
+    display: flex;
+    flex-direction: column;
+    padding-left: 50px;
+    text-wrap: wrap;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.footer{
+    display: flex;
+    background-color: grey;
+    flex-direction: row;
+    margin-top: 70px;
+    width: 1000px;
+    height: 150px;
+    text-align: center;
+    gap:200px;
+    margin-left: 0px;
+    
+    
+    
+    
+}
+a{
+    color: white;
+}
+i{
+    font-size: 50px;
+}

@@ -1,0 +1,27 @@
+body{
+    background-image: url(../IMAGES/second.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.links{
+    display: flex;
+    color: black;
+    font-size: 30px;
+    flex-direction: row;
+    gap: 100px;
+    justify-content: center;
+    background-color: rgb(246, 242, 240);
+height: 150px;}
+.menue{
+    display: flex;
+    flex-direction: row;
+    gap:500px;
+}
+    

@@ -1,0 +1,9 @@
+body{
+    background-color:aquamarine;
+}
+.form{
+    background-color: white;
+    display: flex;
+    text-align: center;
+    
+}
